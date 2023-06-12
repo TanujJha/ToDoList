@@ -3,11 +3,7 @@ A To-do list connected with MongoDB to add and update finished Tasks.
 
 # Preview 
 
-![image](https://github.com/abdreams/ToDoList/assets/97502890/e425ec1a-a630-4f79-9514-f1a28b60d4cf)
-
-We can also add custom lists by appending any name to the end such as :
-
-![image](https://github.com/abdreams/ToDoList/assets/97502890/0991c8ee-b60d-41a5-b730-3ddbe99b41d3)
+![image](https://github.com/TanujJha/ToDoList/assets/97455430/64ccabda-7c1a-426d-a727-475761b88b2e)
 
 # Running on a local machine:
 
